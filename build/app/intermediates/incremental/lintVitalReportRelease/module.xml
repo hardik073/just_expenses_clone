@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/mh-admin/HardikProjects/just_expenses_clone/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="/home/mh-admin/HardikProjects/just_expenses_clone/build/app"
+    bootClassPath="/home/mh-admin/Installation/development/androidStudioAllData/Sdk/platforms/android-33/android.jar:/home/mh-admin/Installation/development/androidStudioAllData/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
